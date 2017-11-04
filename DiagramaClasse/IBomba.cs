@@ -23,7 +23,9 @@ namespace DiagramaClasse
         /// Altura monometrica da bomba
         /// </summary>
         double alturaManometrica { get; set; }
-
-        void calculaVazao();
+        /// <summary>
+        /// Calcula a vazão com base na equação da bomba e da tubulação
+        /// </summary>
+        double calculaVazao();
     }
 }

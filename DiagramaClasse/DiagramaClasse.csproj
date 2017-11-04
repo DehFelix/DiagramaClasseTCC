@@ -60,7 +60,9 @@
     <Compile Include="Fluido.cs" />
     <Compile Include="IBomba.cs" />
     <Compile Include="IDestilacao.cs" />
+    <Compile Include="ISingulariedade.cs" />
     <Compile Include="ITrocadorDeCalor.cs" />
+    <Compile Include="Itubulacao.cs" />
     <Compile Include="MembranaDeSeparacao.cs" />
     <Compile Include="OPI.cs" />
     <Compile Include="OPII.cs" />

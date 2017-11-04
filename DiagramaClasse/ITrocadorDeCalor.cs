@@ -36,8 +36,12 @@ namespace DiagramaClasse
         /// </summary>
         Fluido fluidoQuenteSaida { get; set; }
         /// <summary>
-        /// Calor transferido pelo trocador (J)
+        /// Calor transferido do fluido quente para o frio (W)
         /// </summary>
-        int calorTransferido { get; set; }
+        double calorTransferido { get; set; }
+        /// <summary>
+        /// Calcula o processo de troca térmica no trocador e atualiza suas propriedades
+        /// </summary>
+        void calculaSaidas();
     }
 }

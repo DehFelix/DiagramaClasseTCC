@@ -35,5 +35,10 @@ namespace DiagramaClasse
         /// Esagio de alimentação
         /// </summary>
         int estagioFeed { get; set; }
+
+        /// <summary>
+        /// Calcula o número de pratos teoricos para a condição de refluxo máximo
+        /// </summary>
+        void calculaPratosMin();
     }
 }

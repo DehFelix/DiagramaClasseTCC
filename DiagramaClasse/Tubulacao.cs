@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DiagramaClasse
 {
-    class Tubulacao : OPI
+    class Tubulacao : OPI, Itubulacao
     {
     }
 }

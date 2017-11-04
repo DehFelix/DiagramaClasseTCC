@@ -10,7 +10,7 @@
   <Class Name="DiagramaClasse.Equipamentos">
     <Position X="0.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAA=</HashCode>
       <FileName>Equipamentos.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -27,6 +27,7 @@
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Tubulacao.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.829" />
   </Class>
   <Class Name="DiagramaClasse.Bomba">
     <Position X="4" Y="5.5" Width="1.5" />
@@ -72,7 +73,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.Valvula">
-    <Position X="7.25" Y="8.5" Width="1.5" />
+    <Position X="7.25" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Valvula.cs</FileName>
@@ -84,30 +85,31 @@
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Singularidade.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.815" />
   </Class>
   <Class Name="DiagramaClasse.Cotovelo">
-    <Position X="4.75" Y="8.5" Width="1.5" />
+    <Position X="4.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Cotovelo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.OPII">
-    <Position X="2.25" Y="9.75" Width="1.5" />
+    <Position X="2.25" Y="10.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>OPII.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.OPIII">
-    <Position X="2.25" Y="14.75" Width="1.25" />
+    <Position X="2.25" Y="15.25" Width="1.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>OPIII.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.TrocadordeCalor">
-    <Position X="2.25" Y="11.25" Width="1.5" />
+    <Position X="2.25" Y="11.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TrocadordeCalor.cs</FileName>
@@ -115,56 +117,56 @@
     <Lollipop Position="0.1" />
   </Class>
   <Class Name="DiagramaClasse.TrocadorCascoETubos">
-    <Position X="2" Y="13" Width="2" />
+    <Position X="2" Y="13.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TrocadorCascoETubos.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.TrocadorDePlacas">
-    <Position X="4.25" Y="13" Width="1.5" />
+    <Position X="4.25" Y="13.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TrocadorDePlacas.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.TrocadorDuploTubo">
-    <Position X="6" Y="13" Width="1.75" />
+    <Position X="6" Y="13.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TrocadorDuploTubo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.Evaporador">
-    <Position X="4.25" Y="11.25" Width="1.5" />
+    <Position X="4.25" Y="11.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Evaporador.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.Secador">
-    <Position X="6.25" Y="11.25" Width="1.5" />
+    <Position X="6.25" Y="11.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Secador.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.TamborDeFlash">
-    <Position X="3.25" Y="17.75" Width="1.5" />
+    <Position X="3.25" Y="18.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Flash.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.Cristalizador">
-    <Position X="6.5" Y="16.25" Width="1.5" />
+    <Position X="6.5" Y="16.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Cristalizador.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.TorreDeDestilacao">
-    <Position X="8.5" Y="16.25" Width="1.5" />
+    <Position X="8.5" Y="16.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TorreDeDestilacao.cs</FileName>
@@ -172,35 +174,35 @@
     <Lollipop Position="0.992" />
   </Class>
   <Class Name="DiagramaClasse.ColunaDeAbsorcao">
-    <Position X="2" Y="16.25" Width="1.75" />
+    <Position X="2" Y="16.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ColunaDeAbsorcao.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.MembranaDeSeparacao">
-    <Position X="4.25" Y="16.25" Width="2" />
+    <Position X="4.25" Y="16.75" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MembranaDeSeparacao.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.TorreDeResfriamento">
-    <Position X="8" Y="11.25" Width="1.75" />
+    <Position X="8" Y="11.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TorreDeResfriamento.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.DestiladorContinuo">
-    <Position X="7.5" Y="17.75" Width="1.75" />
+    <Position X="7.5" Y="18.25" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>DestiContinuo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DiagramaClasse.DestiladorBatelada">
-    <Position X="9.5" Y="17.75" Width="1.5" />
+    <Position X="9.5" Y="18.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>DestiBatelada.cs</FileName>
@@ -249,17 +251,31 @@
     </TypeIdentifier>
   </Interface>
   <Interface Name="DiagramaClasse.ITrocadorDeCalor">
-    <Position X="10.25" Y="11.25" Width="1.5" />
+    <Position X="10.25" Y="11.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAEAAAAAUAEAAAAAAABAAAAAAAIAAIAAAE=</HashCode>
+      <HashCode>AAAAAAAAAAAEAAAAAUAEAAAAAAABAAAAAAAIEAIAAAE=</HashCode>
       <FileName>ITrocadorDeCalor.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="DiagramaClasse.IDestilacao">
-    <Position X="11.25" Y="16.25" Width="1.5" />
+    <Position X="11.25" Y="16.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAIQAQAAAAgAAABAAAAAAAAAAAgAAAAQAAAAAA=</HashCode>
+      <HashCode>AAAAAAAIQAQAAAAgAAABAAAAAQAAAAAgAAAAQAAAAAA=</HashCode>
       <FileName>IDestilacao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DiagramaClasse.Itubulacao">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAABABAAAAASAAAAAAAAAABEACA=</HashCode>
+      <FileName>Itubulacao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DiagramaClasse.ISingulariedade">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ISingulariedade.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />

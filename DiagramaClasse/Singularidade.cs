@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DiagramaClasse
 {
-    class Singularidade : OPI
+    class Singularidade : OPI, ISingulariedade
     {
     }
 }
